@@ -22,7 +22,7 @@ def main():
         ActiveWifi = getWifiName()
         print("[*] Wifi is:", ActiveWifi)
         if(ActiveWifi == "XXXXXXXX"):
-            print("[*] Connected to TFO-BZ Wifi!")
+            print("[*] Connected to XXXXXXXX Wifi!")
             ConnectOpenVPN()
             print("[*] Connected!")
 
